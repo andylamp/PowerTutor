@@ -1,6 +1,6 @@
 # Introduction
 
-This project a modernization effort for the work presented in the
+This project is a modernization effort for the work presented in the
 [PowerTutor][1] paper by Zhang et al.
 
 
